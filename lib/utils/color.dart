@@ -1,0 +1,7 @@
+class LightColor {
+
+}
+
+class DarkColor {
+  
+}
